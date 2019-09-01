@@ -1,0 +1,213 @@
+{
+  "3cad8cfacf91c8b31a8a3083c9e43271" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b812f701aa73412",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181936398,
+        "stop" : 1566181936399,
+        "duration" : 1
+      }
+    } ]
+  },
+  "2588b602c853a291dd3fec024efaad8a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e7fa131180312d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181936487,
+        "stop" : 1566181936487,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cf3d2d54d7d03bd0942f84260d5454c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30a6db0a0caecc32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181936501,
+        "stop" : 1566181936502,
+        "duration" : 1
+      }
+    } ]
+  },
+  "4f8d75905670b2281bfeb7f8ea2460fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "edc2e2cd9369478f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181936509,
+        "stop" : 1566181936509,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7b3a5ac7ed95b89b2a893d590a2f37ff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38469736fd2e4f9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181936466,
+        "stop" : 1566181936466,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bf606935594bac11c808a8243f2bf3a4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "94ffefb57de31862",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181936473,
+        "stop" : 1566181936473,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fc9cd1853da117e076fb9e72087697f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ec42fb8eb9d3877",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181936480,
+        "stop" : 1566181936480,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4bfd404cc156e55d67f452d47146152a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9caf7255e052a3ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181936495,
+        "stop" : 1566181936495,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3d596e8527c418dee23485086c99e22a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd79cb276a71288e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181936406,
+        "stop" : 1566181936406,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c8cd82c99acc944c4aab84b5eddb6ed6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "401c54cc64aa5aa4",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '香港是中国的' == '清早起来拥抱太阳'\n  - 香港是中国的\n  + 清早起来拥抱太阳",
+      "time" : {
+        "start" : 1566181936454,
+        "stop" : 1566181936454,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5573ca69ec5a612ab6ebd2e4e95d945e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aedecaa3044f17ec",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0 > 123",
+      "time" : {
+        "start" : 1566181936413,
+        "stop" : 1566181936413,
+        "duration" : 0
+      }
+    } ]
+  }
+}

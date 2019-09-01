@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 0 > 123",
+      "children" : [ {
+        "name" : "test_3",
+        "uid" : "aedecaa3044f17ec",
+        "parentUid" : "29f5d48127d2bc456ecef0e261188af8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566181936413,
+          "stop" : 1566181936413,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "29f5d48127d2bc456ecef0e261188af8"
+    }, {
+      "name" : "AssertionError: assert '香港是中国的' == '清早起来拥抱太阳'\n  - 香港是中国的\n  + 清早起来拥抱太阳",
+      "children" : [ {
+        "name" : "test_4",
+        "uid" : "401c54cc64aa5aa4",
+        "parentUid" : "93f70e83b2cdddd658f48a1ddf0bbb01",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566181936454,
+          "stop" : 1566181936454,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "93f70e83b2cdddd658f48a1ddf0bbb01"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

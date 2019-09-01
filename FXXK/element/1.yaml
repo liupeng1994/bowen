@@ -1,0 +1,25 @@
+---
+#登陆 id
+in: com.facishare.fs:id/loginButton
+# 输入账号 id
+send: com.facishare.fs:id/editText_phone
+#输入密码 id
+passwd: com.facishare.fs:id/editText_pwd
+#点击登陆
+login: com.facishare.fs:id/button_login
+#功能栏 id
+tool: com.facishare.fs:id/tabLayout
+#功能图标
+tubiao: android.widget.LinearLayout
+#用户名城
+usrname: com.facishare.fs:id/tv_coll_name
+#我的 功能模块 id
+wode: com.facishare.fs:id/LinearLayout_view
+#退出登录 id
+exit: com.facishare.fs:id/btn_account_logout
+#退出确认 id
+en: com.facishare.fs:id/button_mydialog_enter
+#资料卡 id
+ziliao: com.facishare.fs:id/relativeLayout_user_info
+#编辑按键 id
+set: com.facishare.fs:id/title_rightgroup
